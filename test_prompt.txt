@@ -1,0 +1,36 @@
+You will be given one text summary and some summary images (ID) written for a news article with source images. The summary images is a subset of the source images (e.g., Summary Image ID: 1,3 refer to the first and third source images).
+
+Your task is to rate the overall quality of the text summary and the summary images.
+
+Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
+
+Evaluation Criteria:
+
+Quality (1-5) - the overall quality of the text summary and summary images as a whole, including the quality of the text summary, the quality of the summary images (how well the selected summary images represent the content of the source document), the relevance of text summary and summary images (how well the text summary and summary images match).
+
+Evaluation Steps:
+
+1. Read the source document, source images, text summary and summary images carefully.
+2. Assess the overall quality of the text summary and summary images as a whole, given the source document and source images.
+3. Assign a score for overall quality on a scale of 1 to 5, where 1 is the lowest and 5 is the highest based on the Evaluation Criteria.
+
+
+Example:
+
+
+Source Text:
+
+{{Document}}
+
+Summary:
+
+{{Summary}}
+
+Summary Image ID:
+
+{{Summary Image ID}}
+
+
+Evaluation Form (scores ONLY):
+
+- Overall Quality:
